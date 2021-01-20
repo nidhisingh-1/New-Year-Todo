@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/new_year_todo/static/css/main.b98e81e6.chunk.css",
+    "main.js": "/new_year_todo/static/js/main.ad0d3d76.chunk.js",
+    "main.js.map": "/new_year_todo/static/js/main.ad0d3d76.chunk.js.map",
+    "runtime-main.js": "/new_year_todo/static/js/runtime-main.fd39b4c3.js",
+    "runtime-main.js.map": "/new_year_todo/static/js/runtime-main.fd39b4c3.js.map",
+    "static/js/2.1a35d77a.chunk.js": "/new_year_todo/static/js/2.1a35d77a.chunk.js",
+    "static/js/2.1a35d77a.chunk.js.map": "/new_year_todo/static/js/2.1a35d77a.chunk.js.map",
+    "static/js/3.84a43ad2.chunk.js": "/new_year_todo/static/js/3.84a43ad2.chunk.js",
+    "static/js/3.84a43ad2.chunk.js.map": "/new_year_todo/static/js/3.84a43ad2.chunk.js.map",
+    "index.html": "/new_year_todo/index.html",
+    "static/css/main.b98e81e6.chunk.css.map": "/new_year_todo/static/css/main.b98e81e6.chunk.css.map",
+    "static/js/2.1a35d77a.chunk.js.LICENSE.txt": "/new_year_todo/static/js/2.1a35d77a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd39b4c3.js",
+    "static/js/2.1a35d77a.chunk.js",
+    "static/css/main.b98e81e6.chunk.css",
+    "static/js/main.ad0d3d76.chunk.js"
+  ]
+}
