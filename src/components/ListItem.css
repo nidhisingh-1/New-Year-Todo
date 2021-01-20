@@ -1,0 +1,19 @@
+.List-item{
+    background-color: rgb(250, 222, 152);
+    color: black;
+    padding: 1em;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Balsamiq sans';
+    margin-top: 10px;
+}
+
+.List-item:hover {
+    transform: scale(1.02)
+}
+
+.List-item input[type = checkbox]{
+padding: 0.3em;
+transform : scale(1.8)
+}
+
